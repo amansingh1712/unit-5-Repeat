@@ -1,1 +1,9 @@
-{"websites":[{"website":"masaischool.com"}]}
+{
+  "products": [
+    { "id": 2, "productname": "mobile" },
+    { "id": 3, "productname": "mobile" },
+    { "id": 4, "productname": "mobile" },
+    { "id": 5, "productname": "book" },
+    { "id": 5, "productname": "book", "price": 100 }
+  ]
+}

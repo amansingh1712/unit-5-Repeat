@@ -91,7 +91,8 @@ app.post("/getmeip", (req, res) => {
         // console.log('website:', website)
 
         let web = dns.lookup(website, function (err, addresses, family) {
-            console.log(addresses)
+            console.log(addresses);
+            res.send(addresses)
         })
 
 
