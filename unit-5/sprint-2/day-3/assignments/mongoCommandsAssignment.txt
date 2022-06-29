@@ -1,0 +1,12 @@
+1.db.users.find({gender:"Male"})
+2.db.users.find({id:{$mod:[2,0]}})
+3.db.users.find({relocate_to:"Japan"})
+4.db.users.find({gender:"Female",native:"India"})
+5.db.users.find({age:{$gt:25}})
+6. db.users.find({age:{$lt:50},native:"United States"})
+7.db.users.find({relocate_to:"France"}).count()
+8.db.users.find({native:"United States",relocate_to:"Russia"}).sort({age:1})
+9.db.users.find().sort({family_members:1,age:-1})
+
+
+
