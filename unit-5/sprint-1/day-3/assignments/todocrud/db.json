@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "todo": "Learn HTML",
+      "status": false,
+      "id": "4a7b3dd5-9216-47e2-a5df-fe9b897c30be"
+    },
+    {
+      "todo": "Learn CSS",
+      "status": false,
+      "id": "c2b34c45-aa58-49e6-8815-7a7e44f18eda"
+    },
+    {
+      "todo": "Learn JAVASCRIPT",
+      "status": false,
+      "id": "5ecd936f-c213-4eca-b71d-2cc70fe2dbea"
+    },
+    {
+      "todo": "Learn ADVANCE JAVASCRIPT",
+      "status": false,
+      "id": "d1bb675b-6b4f-4713-8c1c-a05c4c048a05"
+    },
+    {
+      "todo": "Learn REACT",
+      "status": false,
+      "id": "5e34e016-827c-4586-960c-af5be5dec302"
+    },
+    {
+      "todo": "Learn REDUX",
+      "status": false,
+      "id": "7d3586f4-1214-4dce-a66c-2035e99f115b"
+    },
+    {
+      "todo": "Learn HTML",
+      "status": false,
+      "id": "4a7b3dd5-9216-47e2-a5df-fe9b897c30be",
+      "priority": "high"
+    },
+    {
+      "todo": "Learn HTML",
+      "status": false,
+      "id": "4a7b3dd5-9216-47e2-a5df-fe9b897c30be",
+      "priority": "high",
+      "completed": false
+    },
+    {
+      "todo": "Learn HTML",
+      "status": false,
+      "id": "4a7b3dd5-9216-47e2-a5df-fe9b897c30be",
+      "priority": "high",
+      "completed": false
+    },
+    {
+      "todo": "Learn HTML",
+      "status": false,
+      "id": "4a7b3dd5-9216-47e2-a5df-fe9b897c30be",
+      "done": false
+    }
+  ]
+}
