@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "value": "books"
+    },
+    {
+      "id": 2,
+      "value": "novel"
+    },
+    {
+      "id": 3,
+      "value": "magazine"
+    },
+    {
+      "id": 4,
+      "value": "newspaper"
+    },
+    {
+      "value": "American magazine",
+      "id": 5
+    }
+  ]
+}
